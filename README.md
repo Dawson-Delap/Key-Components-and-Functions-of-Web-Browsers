@@ -20,6 +20,6 @@ It executes the JavaScript code. The JavaScript help web pages actually do thing
 
 It is one of the most crucial function. It help establish connects with web pages. Sends HTTPS requests, and gets the content of the web pages.
 
-## links
+## Links
 
-https://www.browserstack.com/guide/what-is-browser#:~:text=It%20encompasses%20elements%20such%20as,control%20and%20navigate%20the%20browser.
+<https://www.browserstack.com/guide/what-is-browser#:~:text=It%20encompasses%20elements%20such%20as,control%20and%20navigate%20the%20browser>
