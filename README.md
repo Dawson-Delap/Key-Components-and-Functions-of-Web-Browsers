@@ -8,11 +8,13 @@ It deals with how the user sees and interacts such as bookmarks, tabs, address b
 
 It is the core of the browser, handles user inputs, it also coordinates the flow of information between different functions of the browser.
 
-## Rendering Engine
+## Loading
+
+### Rendering Engine
 
 It displays the content of html files, with css formating it.
 
-## JavaScript Interpreter
+### JavaScript Interpreter
 
 It executes the JavaScript code. The JavaScript help web pages actually do things.
 
