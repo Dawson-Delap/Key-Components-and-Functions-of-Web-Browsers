@@ -8,19 +8,40 @@ It deals with how the user sees and interacts such as bookmarks, tabs, address b
 
 It is the core of the browser, handles user inputs, it also coordinates the flow of information between different functions of the browser.
 
-## Loading
-
-### Rendering Engine
+## Rendering Engine
 
 It displays the content of html files, with css formating it.
 
-### JavaScript Interpreter
+## JavaScript Interpreter
 
 It executes the JavaScript code. The JavaScript help web pages actually do things.
 
 ## Networking
 
-It is one of the most crucial function. It help establish connects with web pages. Sends HTTPS requests, and gets the content of the web pages.
+It is the most crucial function. It help establish connects with web pages. Sends HTTPS requests, and gets the content of the web pages.
+
+## Scavanger Hunt Questions
+
+### 1. What does networking deal with
+
+- connecting to servers
+- how the user interacts
+- loading the web page
+- user inputs
+
+### 2. What does the browser engine do
+
+- rendering the web page
+- connecting to servers
+- the flow of information
+- handling user inputs
+
+### 3. What is the most cruical function
+
+- JavaScript interpreter
+- Networking
+- Rendering Engine
+- User interaction
 
 ## Links
 
