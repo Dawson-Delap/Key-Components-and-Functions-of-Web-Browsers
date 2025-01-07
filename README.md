@@ -22,26 +22,21 @@ It is the most crucial function. It help establish connects with web pages. Send
 
 ## Scavanger Hunt Questions
 
-### 1. What does networking deal with
+### 1. What does networking deal with?
 
 - connecting to servers
 - how the user interacts
 - loading the web page
 - user inputs
 
-### 2. What does the browser engine do
+### 2. What does the browser engine do?
 
 - rendering the web page
 - connecting to servers
 - the flow of information
 - handling user inputs
 
-### 3. What is the most cruical function
-
-- JavaScript interpreter
-- Networking
-- Rendering Engine
-- User interaction
+### 3. What are the components of web browsers?
 
 ## Links
 
