@@ -18,7 +18,7 @@ It executes the JavaScript code. The JavaScript help web pages actually do thing
 
 ## Networking
 
-It is the most crucial function. It help establish connects with web pages. Sends HTTPS requests, and gets the content of the web pages.
+It is the most crucial function. It help establish connects with web pages. Sends HTTP requests, and gets the content of the web pages.
 
 ## Scavanger Hunt Questions
 
